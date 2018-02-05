@@ -1,5 +1,4 @@
-# daecoin
-Daecoin source tree
+# Daecoin
 -------------------
 
 https://www.daeplatform.com/daecoin/
