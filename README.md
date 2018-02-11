@@ -1,10 +1,9 @@
 # Daecoin
--------------------
 
-https://www.daeplatform.com/daecoin/
+https://daeplatform.net/daecoin
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2017-2017  Developers
+Copyright (c) 2017-2017 Steneum Developers
 Copyright (c) 2017-2018 Dae Platform Developers
 
 What is Daecoin?
@@ -24,5 +23,3 @@ License
 
 Daecoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
- 
-
