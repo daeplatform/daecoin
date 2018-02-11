@@ -3,12 +3,8 @@
 https://daeplatform.net/daecoin
 
 Copyright (c) 2009-2014 Bitcoin Developers
-
 Copyright (c) 2017-2017 Steneum Developers
-
 Copyright (c) 2017-2018 Dae Platform Developers
-
-
 
 What is Daecoin?
 ----------------
@@ -21,9 +17,7 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the Daecoin software, see [https://daeplatform.com/daecoin](https://daeplatform.com/daecoin).
-
-
-
+  
 License
 -------
 
