@@ -16,7 +16,7 @@ out collectively by the network. Daecoin is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Daecoin software, see [https://daeplatform.com/daecoin](https://daeplatform.com/daecoin).
+the Daecoin software, see [https://daeplatform.net/daecoin](https://daeplatform.net/daecoin).
   
 License
 -------
